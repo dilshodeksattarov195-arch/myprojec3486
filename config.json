@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configspdate",
+        "uuid": 6773298,
+        "checksum": "npp1fh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
